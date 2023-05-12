@@ -2,6 +2,19 @@
 
 Using a dataset from Kaggle and with the help of Python, I was able to generate key insights on Loan Applicants of 𝐃𝐫𝐞𝐚𝐦 𝐇𝐨𝐮𝐬𝐢𝐧𝐠 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 in the form of a pdf report
 
+## Reference Files ##
+- Refer to analysis.ipynb for python file
+- Refer to Loan Analysis Report.pdf for pdf report
+- Refer to loan_sanction_train.csv for csv file
+
+## Libraries Used:- ##
+- pip install pandas
+- pip install plotly
+- pip install statistics
+- pip install scipy
+- pip install matplotlib
+- pip install math
+
 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐌𝐞𝐭𝐡𝐨𝐝𝐬 𝐔𝐬𝐞𝐝:-
 - Welch's t-test
 - Z Score Analysis
