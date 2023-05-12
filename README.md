@@ -15,13 +15,13 @@ Using a dataset from Kaggle and with the help of Python, I was able to generate 
 - pip install matplotlib
 - pip install math
 
-𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐌𝐞𝐭𝐡𝐨𝐝𝐬 𝐔𝐬𝐞𝐝:-
+## 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐌𝐞𝐭𝐡𝐨𝐝𝐬 𝐔𝐬𝐞𝐝:- ##
 - Welch's t-test
 - Z Score Analysis
 - Percentile Calculation
 - Probability Calculation
 
-𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝:-
+## 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝:- ##
 - Males Vs Females(Loan Amount Acquired)
 -  Graduates v/s Non Graduates(Loan Approval Chances Comparison)
 - Applicant Income Distribution Analysis
@@ -33,7 +33,7 @@ Using a dataset from Kaggle and with the help of Python, I was able to generate 
 - Dependent v/s Non-Dependent Analysis 
 - Do Non Dependents apply for lesser loan amount on an average when compared to average loan amount applied by all the loan applicants?
 
-Visualizations Used:-
+## Visualizations Used:- ##
 - Bar Graph
 - Density Plots
 - Piechart
