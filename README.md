@@ -2,6 +2,8 @@
 
 Using a dataset from Kaggle and with the help of Python, I was able to generate key insights on Loan Applicants of 𝐃𝐫𝐞𝐚𝐦 𝐇𝐨𝐮𝐬𝐢𝐧𝐠 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 in the form of a pdf report
 
+## The About section on the top right side of this project consists of a linkedin post link wherein this project has been explained in further detail
+
 ## Reference Files ##
 - Refer to analysis.ipynb for python file
 - Refer to Loan Analysis Report.pdf for pdf report
