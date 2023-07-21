@@ -10,7 +10,7 @@ Using a dataset from Kaggle and with the help of Python, I was able to generate 
 - Refer to loan_sanction_train.csv for csv file
 
 ## Libraries Used:- ##
-- pip install pandas
+- pip install pandas 
 - pip install plotly
 - pip install statistics
 - pip install scipy
